@@ -1,29 +1,7 @@
 /* Your custom styles */
 
-/* Header */
-/* .view {
-    background: url("https://mdbootstrap.com/img/Photos/Others/img (40).jpg")no-repeat center center;
-    background-size: cover;
-}
-
-.navbar {
-    background-color: transparent;
-}
-
-.top-nav-collapse {
-    background-color: #4285F4;
-}
-
-@media only screen and (max-width: 768px) {
-    .navbar {
-        background-color: #4285F4;
-    }
-} */
-/* ./Header */
-
 
 /* Minimalist Intro */
-
  .top-nav-collapse {
      background-color: #78909c !important;
  }
@@ -59,7 +37,6 @@
          height: 700px;
      }
  }
-
 /* /.Minimalist Intro */
 
 
