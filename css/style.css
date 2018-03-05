@@ -24,41 +24,41 @@
 
 /* Minimalist Intro */
 
-.top-nav-collapse {
-    background-color: #78909c !important;
-}
+ .top-nav-collapse {
+     background-color: #78909c !important;
+ }
 
-.navbar:not(.top-nav-collapse) {
-    background: transparent !important;
-}
+ .navbar:not(.top-nav-collapse) {
+     background: transparent !important;
+ }
 
-@media (max-width: 768px) {
-    .navbar:not(.top-nav-collapse) {
-        background: #78909c !important;
-    }
-}
+ @media (max-width: 768px) {
+     .navbar:not(.top-nav-collapse) {
+         background: #78909c !important;
+     }
+ }
 
-h1 {
-    letter-spacing: 8px;
-}
+ h1 {
+     letter-spacing: 8px;
+ }
 
-h5 {
-    letter-spacing: 3px;
-}
+ h5 {
+     letter-spacing: 3px;
+ }
 
-.hr-light {
-    border-top: 3px solid #fff;
-    width: 80px;
-}
+ .hr-light {
+     border-top: 3px solid #fff;
+     width: 80px;
+ }
 
-@media (max-width: 740px) {
-    .full-height,
-    .full-height body,
-    .full-height header,
-    .full-height header .view {
-        height: 700px;
-    }
-}
+ @media (max-width: 740px) {
+     .full-height,
+     .full-height body,
+     .full-height header,
+     .full-height header .view {
+         height: 700px;
+     }
+ }
 
 /* /.Minimalist Intro */
 
